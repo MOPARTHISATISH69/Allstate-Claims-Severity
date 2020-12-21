@@ -1,1 +1,3 @@
 # Allstate-Claims-Severity
+
+Best Phrase about customers is Put yourself in their shoes. And every company wants their customers to not leave. A happy customer isn't just someone who makes a purchase with you today. A truly happy customer is one who will be loyal to you and your business for a long time to come and customer loyalty and happiness have a tendency to spread. The most important thing is as the number of unhappy customers increases, the growth of the company decreases. So a company can address these things by using loss Prediction. Our task is to predict how severe the claim will or might be for a new household, predict future loss based on given features.
